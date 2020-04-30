@@ -61,8 +61,8 @@ from April 15, 2010. The original file can be accessed on the WayBack Machine (h
 4. SALS_BRD.pdf
 ![pcb file](SALS_BRD.png)
 
-### Work Breakdown Structure (WOB)
-![WOB](WOB.png)
+### Work Breakdown Structure (WBS)
+![WBS](WBS.png)
 
 ### Class Presentations
 1a. Prototype A.pdf
