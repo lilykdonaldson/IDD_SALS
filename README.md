@@ -50,7 +50,7 @@ This device is based off of archived designs from the "Safety Spectrometer" tutu
 1. spectrophotometer_skeleton_code.ino
 
 > /* This code is an archive of http://www.creative-technology.net/MAKE/Spectrometer_Code.pdf 
-> from April 15, 2010. The original file can be accessed on the WayBack Machine (https://web.archive.org/)*/
+> from April 15, 2010. The original file can be accessed on the WayBack Machine (https://web.archive.org/) */
 
 ### Circuit Board
 #### Schematic
