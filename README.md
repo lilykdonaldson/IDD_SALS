@@ -75,4 +75,10 @@ This device is based off of archived designs from the "Safety Spectrometer" tutu
 ## Further Development
 Because of our university moving online due to the ongoing COVID-19 situation, we were not able fabricate this device. 
 This documentation may be used to continue the project.
+Future steps may include:
+* Further case design and 3D printing
+* Development and testing of skeleton code 
+* Database development (sample liquids)
+* Holistic device testing and liquid sampling
+ 
 
