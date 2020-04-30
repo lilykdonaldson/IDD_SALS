@@ -1,6 +1,7 @@
 ![SALS](logo.png)
 # Spectrophotometer for Analyzing Liquid Samples (SALS)
 Spring 2020, Final Project for ISCI-496 Interactive Device Design (American University)
+
 Lily Donaldson, Éowyn Fain, Cheldina Jean, Fiona Murphey
 
 ## Description
@@ -48,8 +49,8 @@ This device is based off of archived designs from the "Safety Spectrometer" tutu
 ### Skeleton Code
 1. spectrophotometer_skeleton_code.ino
 
-/* This code is an archive of http://www.creative-technology.net/MAKE/Spectrometer_Code.pdf 
-from April 15, 2010. The original file can be accessed on the WayBack Machine (https://web.archive.org/)*/
+> /* This code is an archive of http://www.creative-technology.net/MAKE/Spectrometer_Code.pdf 
+> from April 15, 2010. The original file can be accessed on the WayBack Machine (https://web.archive.org/)*/
 
 ### Circuit Board
 #### Schematic
@@ -66,7 +67,9 @@ from April 15, 2010. The original file can be accessed on the WayBack Machine (h
 
 ### Class Presentations
 1a. Prototype A.pdf
+
 1b. Prototype A_SALS WBS Step 1.0_Device Proposal.pdf
+
 2. Prototype B.pdf
 
 ## Further Development
