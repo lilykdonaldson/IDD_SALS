@@ -42,7 +42,7 @@ This device is based off of archived designs from the "Safety Spectrometer" tutu
 
 ### CAD Files for Case
 1. SALS_Case.f3d
-![Case Fusion 360 File](SALS_Case1.png)
+![Case Fusion 360 File](SALS_Case 1.png)
 ![Case Fusion 360 File](SALS_Case2.png)
 
 ### Skeleton Code
